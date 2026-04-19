@@ -62,13 +62,13 @@
         "10": "Ninth and Tenth Commandments"
       },
       "II": {
-        "label": "The Apostlesâ Creed",
+        "label": "The Apostles’ Creed",
         "1": "First Article",
         "2": "Second Article",
         "3": "Third Article"
       },
       "III": {
-        "label": "The Lordâs Prayer",
+        "label": "The Lord’s Prayer",
         "1": "First Petition",
         "2": "Second Petition",
         "3": "Third Petition",
@@ -263,89 +263,89 @@
   },
   "titles": {
     "Ecumenical Creeds": {
-      "Apostles Creed": "The Apostlesâ Creed",
+      "Apostles Creed": "The Apostles’ Creed",
       "Nicene Creed": "The Nicene Creed",
       "Athanasian Creed": "The Athanasian Creed"
     },
     "Augsburg Confession": {
       "Preface": "Preface",
-      "Article I": "Article I â God",
-      "Article II": "Article II â Original Sin",
-      "Article III": "Article III â The Son of God",
-      "Article IV": "Article IV â Justification",
-      "Article V": "Article V â The Ministry",
-      "Article VI": "Article VI â New Obedience",
-      "Article VII": "Article VII â The Church",
-      "Article VIII": "Article VIII â What the Church Is",
-      "Article IX": "Article IX â Baptism",
-      "Article X": "Article X â The Lordâs Supper",
-      "Article XI": "Article XI â Confession",
-      "Article XII": "Article XII â Repentance",
-      "Article XIII": "Article XIII â The Use of the Sacraments",
-      "Article XIV": "Article XIV â Order in the Church",
-      "Article XV": "Article XV â Church Ceremonies",
-      "Article XVI": "Article XVI â Civil Government",
-      "Article XVII": "Article XVII â Christâs Return for Judgment",
-      "Article XVIII": "Article XVIII â Free Will",
-      "Article XIX": "Article XIX â The Cause of Sin",
-      "Article XX": "Article XX â Good Works",
-      "Article XXI": "Article XXI â Worship of the Saints",
-      "Article XXII": "Article XXII â Both Kinds in the Sacrament",
-      "Article XXIII": "Article XXIII â The Marriage of Priests",
-      "Article XXIV": "Article XXIV â The Mass",
-      "Article XXV": "Article XXV â Confession",
-      "Article XXVI": "Article XXVI â The Distinction of Meats",
-      "Article XXVII": "Article XXVII â Monastic Vows",
-      "Article XXVIII": "Article XXVIII â Church Authority"
+      "Article I": "Article I — God",
+      "Article II": "Article II — Original Sin",
+      "Article III": "Article III — The Son of God",
+      "Article IV": "Article IV — Justification",
+      "Article V": "Article V — The Ministry",
+      "Article VI": "Article VI — New Obedience",
+      "Article VII": "Article VII — The Church",
+      "Article VIII": "Article VIII — What the Church Is",
+      "Article IX": "Article IX — Baptism",
+      "Article X": "Article X — The Lord’s Supper",
+      "Article XI": "Article XI — Confession",
+      "Article XII": "Article XII — Repentance",
+      "Article XIII": "Article XIII — The Use of the Sacraments",
+      "Article XIV": "Article XIV — Order in the Church",
+      "Article XV": "Article XV — Church Ceremonies",
+      "Article XVI": "Article XVI — Civil Government",
+      "Article XVII": "Article XVII — Christ’s Return for Judgment",
+      "Article XVIII": "Article XVIII — Free Will",
+      "Article XIX": "Article XIX — The Cause of Sin",
+      "Article XX": "Article XX — Good Works",
+      "Article XXI": "Article XXI — Worship of the Saints",
+      "Article XXII": "Article XXII — Both Kinds in the Sacrament",
+      "Article XXIII": "Article XXIII — The Marriage of Priests",
+      "Article XXIV": "Article XXIV — The Mass",
+      "Article XXV": "Article XXV — Confession",
+      "Article XXVI": "Article XXVI — The Distinction of Meats",
+      "Article XXVII": "Article XXVII — Monastic Vows",
+      "Article XXVIII": "Article XXVIII — Church Authority"
     },
     "Apology of the Augsburg Confession": {
-      "Article I": "Article I â God",
-      "Article II": "Article II (I) â Original Sin",
-      "Article III": "Article III â Christ",
-      "Article IV": "Article IV (II) â Justification",
-      "Article V": "Article V (III) â Love and Fulfilling the Law",
-      "Article VII and VIII": "Articles VII and VIII (IV) â The Church",
-      "Article IX": "Article IX â Baptism",
-      "Article X": "Article X â The Holy Supper",
-      "Article XI": "Article XI â Confession",
-      "Article XIIa": "Article XIIa (V) â Repentance",
-      "Article XIIb": "Article XIIb (VI) â Confession and Satisfaction",
-      "Article XIII": "Article XIII (VII) â The Number and Use of the Sacraments",
-      "Article XIV": "Article XIV â Order in the Church",
-      "Article XV": "Article XV (VIII) â Human Traditions in the Church",
-      "Article XVI": "Article XVI â Political Order",
-      "Article XVII": "Article XVII â Christâs Return for Judgment",
-      "Article XVIII": "Article XVIII â Free Will",
-      "Article XIX": "Article XIX â The Cause of Sin",
-      "Article XX": "Article XX â Good Works",
-      "Article XXI": "Article XXI (IX) â The Invocation of Saints",
-      "Article XXII": "Article XXII (X) â Both Kinds in the Lordâs Supper",
-      "Article XXIII": "Article XXIII (XI) â The Marriage of Priests",
-      "Article XXIV": "Article XXIV (XII) â The Mass",
-      "Article XXVII": "Article XXVII (XIII) â Monastic Vows",
-      "Article XXVIII": "Article XXVIII (XIV) â Church Authority"
+      "Article I": "Article I — God",
+      "Article II": "Article II (I) — Original Sin",
+      "Article III": "Article III — Christ",
+      "Article IV": "Article IV (II) — Justification",
+      "Article V": "Article V (III) — Love and Fulfilling the Law",
+      "Article VII and VIII": "Articles VII and VIII (IV) — The Church",
+      "Article IX": "Article IX — Baptism",
+      "Article X": "Article X — The Holy Supper",
+      "Article XI": "Article XI — Confession",
+      "Article XIIa": "Article XIIa (V) — Repentance",
+      "Article XIIb": "Article XIIb (VI) — Confession and Satisfaction",
+      "Article XIII": "Article XIII (VII) — The Number and Use of the Sacraments",
+      "Article XIV": "Article XIV — Order in the Church",
+      "Article XV": "Article XV (VIII) — Human Traditions in the Church",
+      "Article XVI": "Article XVI — Political Order",
+      "Article XVII": "Article XVII — Christ’s Return for Judgment",
+      "Article XVIII": "Article XVIII — Free Will",
+      "Article XIX": "Article XIX — The Cause of Sin",
+      "Article XX": "Article XX — Good Works",
+      "Article XXI": "Article XXI (IX) — The Invocation of Saints",
+      "Article XXII": "Article XXII (X) — Both Kinds in the Lord’s Supper",
+      "Article XXIII": "Article XXIII (XI) — The Marriage of Priests",
+      "Article XXIV": "Article XXIV (XII) — The Mass",
+      "Article XXVII": "Article XXVII (XIII) — Monastic Vows",
+      "Article XXVIII": "Article XXVIII (XIV) — Church Authority"
     },
     "Smalcald Articles": {
       "Part I": "Part I",
-      "Part II Article I": "Part II, Article I â The Chief Article",
-      "Part II Article II": "Part II, Article II â The Mass",
-      "Part II Article III": "Part II, Article III â Chapters and Cloisters",
-      "Part II Article IV": "Part II, Article IV â The Papacy",
-      "Part III Article I": "Part III, Article I â Sin",
-      "Part III Article II": "Part III, Article II â The Law",
-      "Part III Article III": "Part III, Article III â Repentance",
-      "Part III Article IV": "Part III, Article IV â The Gospel",
-      "Part III Article V": "Part III, Article V â Baptism",
-      "Part III Article VI": "Part III, Article VI â The Sacrament of the Altar",
-      "Part III Article VII": "Part III, Article VII â The Keys",
-      "Part III Article VIII": "Part III, Article VIII â Confession",
-      "Part III Article IX": "Part III, Article IX â Excommunication",
-      "Part III Article X": "Part III, Article X â Ordination and the Call",
-      "Part III Article XI": "Part III, Article XI â The Marriage of Priests",
-      "Part III Article XII": "Part III, Article XII â The Church",
-      "Part III Article XIII": "Part III, Article XIII â How One Is Justified Before God and Does Good Works",
-      "Part III Article XIV": "Part III, Article XIV â Monastic Vows",
-      "Part III Article XV": "Part III, Article XV â Human Traditions"
+      "Part II Article I": "Part II, Article I — The Chief Article",
+      "Part II Article II": "Part II, Article II — The Mass",
+      "Part II Article III": "Part II, Article III — Chapters and Cloisters",
+      "Part II Article IV": "Part II, Article IV — The Papacy",
+      "Part III Article I": "Part III, Article I — Sin",
+      "Part III Article II": "Part III, Article II — The Law",
+      "Part III Article III": "Part III, Article III — Repentance",
+      "Part III Article IV": "Part III, Article IV — The Gospel",
+      "Part III Article V": "Part III, Article V — Baptism",
+      "Part III Article VI": "Part III, Article VI — The Sacrament of the Altar",
+      "Part III Article VII": "Part III, Article VII — The Keys",
+      "Part III Article VIII": "Part III, Article VIII — Confession",
+      "Part III Article IX": "Part III, Article IX — Excommunication",
+      "Part III Article X": "Part III, Article X — Ordination and the Call",
+      "Part III Article XI": "Part III, Article XI — The Marriage of Priests",
+      "Part III Article XII": "Part III, Article XII — The Church",
+      "Part III Article XIII": "Part III, Article XIII — How One Is Justified Before God and Does Good Works",
+      "Part III Article XIV": "Part III, Article XIV — Monastic Vows",
+      "Part III Article XV": "Part III, Article XV — Human Traditions"
     },
     "Treatise on the Power and Primacy of the Pope": {
       "Full Text": "Full Text"
@@ -353,7 +353,7 @@
     "Small Catechism": {
       "Ten Commandments": "The Ten Commandments",
       "Creed": "The Creed",
-      "Lord's Prayer": "The Lordâs Prayer",
+      "Lord's Prayer": "The Lord’s Prayer",
       "Baptism": "The Sacrament of Holy Baptism",
       "Confession": "Confession",
       "Sacrament of the Altar": "The Sacrament of the Altar",
@@ -386,490 +386,490 @@
       "Sacrament of the Altar": "The Sacrament of the Altar"
     },
     "Formula of Concord Epitome": {
-      "Article I": "Article I â Original Sin",
-      "Article II": "Article II â Free Will",
-      "Article III": "Article III â The Righteousness of Faith Before God",
-      "Article IV": "Article IV â Good Works",
-      "Article V": "Article V â The Law and the Gospel",
-      "Article VI": "Article VI â The Third Use of Godâs Law",
-      "Article VII": "Article VII â The Holy Supper of Christ",
-      "Article VIII": "Article VIII â The Person of Christ",
-      "Article IX": "Article IX â The Descent of Christ to Hell",
-      "Article X": "Article X â Church Practices",
-      "Article XI": "Article XI â Godâs Eternal Foreknowledge and Election",
-      "Article XII": "Article XII â Other Factions and Sects"
+      "Article I": "Article I — Original Sin",
+      "Article II": "Article II — Free Will",
+      "Article III": "Article III — The Righteousness of Faith Before God",
+      "Article IV": "Article IV — Good Works",
+      "Article V": "Article V — The Law and the Gospel",
+      "Article VI": "Article VI — The Third Use of God’s Law",
+      "Article VII": "Article VII — The Holy Supper of Christ",
+      "Article VIII": "Article VIII — The Person of Christ",
+      "Article IX": "Article IX — The Descent of Christ to Hell",
+      "Article X": "Article X — Church Practices",
+      "Article XI": "Article XI — God’s Eternal Foreknowledge and Election",
+      "Article XII": "Article XII — Other Factions and Sects"
     },
     "Formula of Concord Solid Declaration": {
-      "Article I": "Article I â Original Sin",
-      "Article II": "Article II â Free Will or Human Powers",
-      "Article III": "Article III â The Righteousness of Faith Before God",
-      "Article IV": "Article IV â Good Works",
-      "Article V": "Article V â The Law and the Gospel",
-      "Article VI": "Article VI â The Third Use of Godâs Law",
-      "Article VII": "Article VII â The Holy Supper",
-      "Article VIII": "Article VIII â The Person of Christ",
-      "Article IX": "Article IX â The Descent of Christ to Hell",
-      "Article X": "Article X â Church Practices",
-      "Article XI": "Article XI â Godâs Eternal Foreknowledge and Election",
-      "Article XII": "Article XII â Other Factions and Sects"
+      "Article I": "Article I — Original Sin",
+      "Article II": "Article II — Free Will or Human Powers",
+      "Article III": "Article III — The Righteousness of Faith Before God",
+      "Article IV": "Article IV — Good Works",
+      "Article V": "Article V — The Law and the Gospel",
+      "Article VI": "Article VI — The Third Use of God’s Law",
+      "Article VII": "Article VII — The Holy Supper",
+      "Article VIII": "Article VIII — The Person of Christ",
+      "Article IX": "Article IX — The Descent of Christ to Hell",
+      "Article X": "Article X — Church Practices",
+      "Article XI": "Article XI — God’s Eternal Foreknowledge and Election",
+      "Article XII": "Article XII — Other Factions and Sects"
     }
   },
   "entries": [
     {
       "document": "Ecumenical Creeds",
       "section_key": "Apostles Creed",
-      "title": "The Apostlesâ Creed",
-      "display": "Ecumenical Creeds â The Apostlesâ Creed",
+      "title": "The Apostles’ Creed",
+      "display": "Ecumenical Creeds — The Apostles’ Creed",
       "url": "https://bookofconcord.cph.org/en/ecumenical-creeds/apostles-creed",
-      "markdown": "[Ecumenical Creeds â The Apostlesâ Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/apostles-creed)"
+      "markdown": "[Ecumenical Creeds — The Apostles’ Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/apostles-creed)"
     },
     {
       "document": "Ecumenical Creeds",
       "section_key": "Nicene Creed",
       "title": "The Nicene Creed",
-      "display": "Ecumenical Creeds â The Nicene Creed",
+      "display": "Ecumenical Creeds — The Nicene Creed",
       "url": "https://bookofconcord.cph.org/en/ecumenical-creeds/nicene-creed",
-      "markdown": "[Ecumenical Creeds â The Nicene Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/nicene-creed)"
+      "markdown": "[Ecumenical Creeds — The Nicene Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/nicene-creed)"
     },
     {
       "document": "Ecumenical Creeds",
       "section_key": "Athanasian Creed",
       "title": "The Athanasian Creed",
-      "display": "Ecumenical Creeds â The Athanasian Creed",
+      "display": "Ecumenical Creeds — The Athanasian Creed",
       "url": "https://bookofconcord.cph.org/en/ecumenical-creeds/athanasian-creed",
-      "markdown": "[Ecumenical Creeds â The Athanasian Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/athanasian-creed)"
+      "markdown": "[Ecumenical Creeds — The Athanasian Creed](https://bookofconcord.cph.org/en/ecumenical-creeds/athanasian-creed)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Preface",
       "title": "Preface",
-      "display": "Augsburg Confession â Preface",
+      "display": "Augsburg Confession — Preface",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/preface",
-      "markdown": "[Augsburg Confession â Preface](https://bookofconcord.cph.org/en/augsburg-confession/preface)"
+      "markdown": "[Augsburg Confession — Preface](https://bookofconcord.cph.org/en/augsburg-confession/preface)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article I",
-      "title": "Article I â God",
-      "display": "Augsburg Confession, Article I â God",
+      "title": "Article I — God",
+      "display": "Augsburg Confession, Article I — God",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_i/",
-      "markdown": "[Augsburg Confession, Article I â God](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_i/)"
+      "markdown": "[Augsburg Confession, Article I — God](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_i/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article II",
-      "title": "Article II â Original Sin",
-      "display": "Augsburg Confession, Article II â Original Sin",
+      "title": "Article II — Original Sin",
+      "display": "Augsburg Confession, Article II — Original Sin",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ii/",
-      "markdown": "[Augsburg Confession, Article II â Original Sin](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ii/)"
+      "markdown": "[Augsburg Confession, Article II — Original Sin](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article III",
-      "title": "Article III â The Son of God",
-      "display": "Augsburg Confession, Article III â The Son of God",
+      "title": "Article III — The Son of God",
+      "display": "Augsburg Confession, Article III — The Son of God",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iii/",
-      "markdown": "[Augsburg Confession, Article III â The Son of God](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iii/)"
+      "markdown": "[Augsburg Confession, Article III — The Son of God](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article IV",
-      "title": "Article IV â Justification",
-      "display": "Augsburg Confession, Article IV â Justification",
+      "title": "Article IV — Justification",
+      "display": "Augsburg Confession, Article IV — Justification",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv/",
-      "markdown": "[Augsburg Confession, Article IV â Justification](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv/)"
+      "markdown": "[Augsburg Confession, Article IV — Justification](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article V",
-      "title": "Article V â The Ministry",
-      "display": "Augsburg Confession, Article V â The Ministry",
+      "title": "Article V — The Ministry",
+      "display": "Augsburg Confession, Article V — The Ministry",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_v/",
-      "markdown": "[Augsburg Confession, Article V â The Ministry](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_v/)"
+      "markdown": "[Augsburg Confession, Article V — The Ministry](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_v/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article VI",
-      "title": "Article VI â New Obedience",
-      "display": "Augsburg Confession, Article VI â New Obedience",
+      "title": "Article VI — New Obedience",
+      "display": "Augsburg Confession, Article VI — New Obedience",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vi/",
-      "markdown": "[Augsburg Confession, Article VI â New Obedience](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vi/)"
+      "markdown": "[Augsburg Confession, Article VI — New Obedience](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vi/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article VII",
-      "title": "Article VII â The Church",
-      "display": "Augsburg Confession, Article VII â The Church",
+      "title": "Article VII — The Church",
+      "display": "Augsburg Confession, Article VII — The Church",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vii/",
-      "markdown": "[Augsburg Confession, Article VII â The Church](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vii/)"
+      "markdown": "[Augsburg Confession, Article VII — The Church](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_vii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article VIII",
-      "title": "Article VIII â What the Church Is",
-      "display": "Augsburg Confession, Article VIII â What the Church Is",
+      "title": "Article VIII — What the Church Is",
+      "display": "Augsburg Confession, Article VIII — What the Church Is",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_viii/",
-      "markdown": "[Augsburg Confession, Article VIII â What the Church Is](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_viii/)"
+      "markdown": "[Augsburg Confession, Article VIII — What the Church Is](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_viii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article IX",
-      "title": "Article IX â Baptism",
-      "display": "Augsburg Confession, Article IX â Baptism",
+      "title": "Article IX — Baptism",
+      "display": "Augsburg Confession, Article IX — Baptism",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ix/",
-      "markdown": "[Augsburg Confession, Article IX â Baptism](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ix/)"
+      "markdown": "[Augsburg Confession, Article IX — Baptism](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ix/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article X",
-      "title": "Article X â The Lordâs Supper",
-      "display": "Augsburg Confession, Article X â The Lordâs Supper",
+      "title": "Article X — The Lord’s Supper",
+      "display": "Augsburg Confession, Article X — The Lord’s Supper",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_x/",
-      "markdown": "[Augsburg Confession, Article X â The Lordâs Supper](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_x/)"
+      "markdown": "[Augsburg Confession, Article X — The Lord’s Supper](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_x/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XI",
-      "title": "Article XI â Confession",
-      "display": "Augsburg Confession, Article XI â Confession",
+      "title": "Article XI — Confession",
+      "display": "Augsburg Confession, Article XI — Confession",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xi/",
-      "markdown": "[Augsburg Confession, Article XI â Confession](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xi/)"
+      "markdown": "[Augsburg Confession, Article XI — Confession](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xi/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XII",
-      "title": "Article XII â Repentance",
-      "display": "Augsburg Confession, Article XII â Repentance",
+      "title": "Article XII — Repentance",
+      "display": "Augsburg Confession, Article XII — Repentance",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xii/",
-      "markdown": "[Augsburg Confession, Article XII â Repentance](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xii/)"
+      "markdown": "[Augsburg Confession, Article XII — Repentance](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XIII",
-      "title": "Article XIII â The Use of the Sacraments",
-      "display": "Augsburg Confession, Article XIII â The Use of the Sacraments",
+      "title": "Article XIII — The Use of the Sacraments",
+      "display": "Augsburg Confession, Article XIII — The Use of the Sacraments",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiii/",
-      "markdown": "[Augsburg Confession, Article XIII â The Use of the Sacraments](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiii/)"
+      "markdown": "[Augsburg Confession, Article XIII — The Use of the Sacraments](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XIV",
-      "title": "Article XIV â Order in the Church",
-      "display": "Augsburg Confession, Article XIV â Order in the Church",
+      "title": "Article XIV — Order in the Church",
+      "display": "Augsburg Confession, Article XIV — Order in the Church",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiv/",
-      "markdown": "[Augsburg Confession, Article XIV â Order in the Church](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiv/)"
+      "markdown": "[Augsburg Confession, Article XIV — Order in the Church](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xiv/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XV",
-      "title": "Article XV â Church Ceremonies",
-      "display": "Augsburg Confession, Article XV â Church Ceremonies",
+      "title": "Article XV — Church Ceremonies",
+      "display": "Augsburg Confession, Article XV — Church Ceremonies",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xv/",
-      "markdown": "[Augsburg Confession, Article XV â Church Ceremonies](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xv/)"
+      "markdown": "[Augsburg Confession, Article XV — Church Ceremonies](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xv/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XVI",
-      "title": "Article XVI â Civil Government",
-      "display": "Augsburg Confession, Article XVI â Civil Government",
+      "title": "Article XVI — Civil Government",
+      "display": "Augsburg Confession, Article XVI — Civil Government",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvi/",
-      "markdown": "[Augsburg Confession, Article XVI â Civil Government](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvi/)"
+      "markdown": "[Augsburg Confession, Article XVI — Civil Government](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvi/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XVII",
-      "title": "Article XVII â Christâs Return for Judgment",
-      "display": "Augsburg Confession, Article XVII â Christâs Return for Judgment",
+      "title": "Article XVII — Christ’s Return for Judgment",
+      "display": "Augsburg Confession, Article XVII — Christ’s Return for Judgment",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvii/",
-      "markdown": "[Augsburg Confession, Article XVII â Christâs Return for Judgment](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvii/)"
+      "markdown": "[Augsburg Confession, Article XVII — Christ’s Return for Judgment](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xvii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XVIII",
-      "title": "Article XVIII â Free Will",
-      "display": "Augsburg Confession, Article XVIII â Free Will",
+      "title": "Article XVIII — Free Will",
+      "display": "Augsburg Confession, Article XVIII — Free Will",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xviii/",
-      "markdown": "[Augsburg Confession, Article XVIII â Free Will](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xviii/)"
+      "markdown": "[Augsburg Confession, Article XVIII — Free Will](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xviii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XIX",
-      "title": "Article XIX â The Cause of Sin",
-      "display": "Augsburg Confession, Article XIX â The Cause of Sin",
+      "title": "Article XIX — The Cause of Sin",
+      "display": "Augsburg Confession, Article XIX — The Cause of Sin",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xix/",
-      "markdown": "[Augsburg Confession, Article XIX â The Cause of Sin](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xix/)"
+      "markdown": "[Augsburg Confession, Article XIX — The Cause of Sin](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xix/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XX",
-      "title": "Article XX â Good Works",
-      "display": "Augsburg Confession, Article XX â Good Works",
+      "title": "Article XX — Good Works",
+      "display": "Augsburg Confession, Article XX — Good Works",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xx/",
-      "markdown": "[Augsburg Confession, Article XX â Good Works](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xx/)"
+      "markdown": "[Augsburg Confession, Article XX — Good Works](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xx/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXI",
-      "title": "Article XXI â Worship of the Saints",
-      "display": "Augsburg Confession, Article XXI â Worship of the Saints",
+      "title": "Article XXI — Worship of the Saints",
+      "display": "Augsburg Confession, Article XXI — Worship of the Saints",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xxi/",
-      "markdown": "[Augsburg Confession, Article XXI â Worship of the Saints](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xxi/)"
+      "markdown": "[Augsburg Confession, Article XXI — Worship of the Saints](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xxi/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXII",
-      "title": "Article XXII â Both Kinds in the Sacrament",
-      "display": "Augsburg Confession, Article XXII â Both Kinds in the Sacrament",
+      "title": "Article XXII — Both Kinds in the Sacrament",
+      "display": "Augsburg Confession, Article XXII — Both Kinds in the Sacrament",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxii/",
-      "markdown": "[Augsburg Confession, Article XXII â Both Kinds in the Sacrament](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxii/)"
+      "markdown": "[Augsburg Confession, Article XXII — Both Kinds in the Sacrament](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXIII",
-      "title": "Article XXIII â The Marriage of Priests",
-      "display": "Augsburg Confession, Article XXIII â The Marriage of Priests",
+      "title": "Article XXIII — The Marriage of Priests",
+      "display": "Augsburg Confession, Article XXIII — The Marriage of Priests",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiii/",
-      "markdown": "[Augsburg Confession, Article XXIII â The Marriage of Priests](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiii/)"
+      "markdown": "[Augsburg Confession, Article XXIII — The Marriage of Priests](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXIV",
-      "title": "Article XXIV â The Mass",
-      "display": "Augsburg Confession, Article XXIV â The Mass",
+      "title": "Article XXIV — The Mass",
+      "display": "Augsburg Confession, Article XXIV — The Mass",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiv/",
-      "markdown": "[Augsburg Confession, Article XXIV â The Mass](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiv/)"
+      "markdown": "[Augsburg Confession, Article XXIV — The Mass](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxiv/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXV",
-      "title": "Article XXV â Confession",
-      "display": "Augsburg Confession, Article XXV â Confession",
+      "title": "Article XXV — Confession",
+      "display": "Augsburg Confession, Article XXV — Confession",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxv/",
-      "markdown": "[Augsburg Confession, Article XXV â Confession](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxv/)"
+      "markdown": "[Augsburg Confession, Article XXV — Confession](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxv/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXVI",
-      "title": "Article XXVI â The Distinction of Meats",
-      "display": "Augsburg Confession, Article XXVI â The Distinction of Meats",
+      "title": "Article XXVI — The Distinction of Meats",
+      "display": "Augsburg Confession, Article XXVI — The Distinction of Meats",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvi/",
-      "markdown": "[Augsburg Confession, Article XXVI â The Distinction of Meats](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvi/)"
+      "markdown": "[Augsburg Confession, Article XXVI — The Distinction of Meats](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvi/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXVII",
-      "title": "Article XXVII â Monastic Vows",
-      "display": "Augsburg Confession, Article XXVII â Monastic Vows",
+      "title": "Article XXVII — Monastic Vows",
+      "display": "Augsburg Confession, Article XXVII — Monastic Vows",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvii/",
-      "markdown": "[Augsburg Confession, Article XXVII â Monastic Vows](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvii/)"
+      "markdown": "[Augsburg Confession, Article XXVII — Monastic Vows](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxvii/)"
     },
     {
       "document": "Augsburg Confession",
       "section_key": "Article XXVIII",
-      "title": "Article XXVIII â Church Authority",
-      "display": "Augsburg Confession, Article XXVIII â Church Authority",
+      "title": "Article XXVIII — Church Authority",
+      "display": "Augsburg Confession, Article XXVIII — Church Authority",
       "url": "https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxviii/",
-      "markdown": "[Augsburg Confession, Article XXVIII â Church Authority](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxviii/)"
+      "markdown": "[Augsburg Confession, Article XXVIII — Church Authority](https://bookofconcord.cph.org/en/augsburg-confession/abuses/article_xxviii/)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article I",
-      "title": "Article I â God",
-      "display": "Apology of the Augsburg Confession, Article I â God",
+      "title": "Article I — God",
+      "display": "Apology of the Augsburg Confession, Article I — God",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_i",
-      "markdown": "[Apology of the Augsburg Confession, Article I â God](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_i)"
+      "markdown": "[Apology of the Augsburg Confession, Article I — God](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_i)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article II",
-      "title": "Article II (I) â Original Sin",
-      "display": "Apology of the Augsburg Confession, Article II (I) â Original Sin",
+      "title": "Article II (I) — Original Sin",
+      "display": "Apology of the Augsburg Confession, Article II (I) — Original Sin",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ii_i",
-      "markdown": "[Apology of the Augsburg Confession, Article II (I) â Original Sin](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ii_i)"
+      "markdown": "[Apology of the Augsburg Confession, Article II (I) — Original Sin](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ii_i)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article III",
-      "title": "Article III â Christ",
-      "display": "Apology of the Augsburg Confession, Article III â Christ",
+      "title": "Article III — Christ",
+      "display": "Apology of the Augsburg Confession, Article III — Christ",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iii",
-      "markdown": "[Apology of the Augsburg Confession, Article III â Christ](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iii)"
+      "markdown": "[Apology of the Augsburg Confession, Article III — Christ](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article IV",
-      "title": "Article IV (II) â Justification",
-      "display": "Apology of the Augsburg Confession, Article IV (II) â Justification",
+      "title": "Article IV (II) — Justification",
+      "display": "Apology of the Augsburg Confession, Article IV (II) — Justification",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iv_ii",
-      "markdown": "[Apology of the Augsburg Confession, Article IV (II) â Justification](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iv_ii)"
+      "markdown": "[Apology of the Augsburg Confession, Article IV (II) — Justification](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iv_ii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article V",
-      "title": "Article V (III) â Love and Fulfilling the Law",
-      "display": "Apology of the Augsburg Confession, Article V (III) â Love and Fulfilling the Law",
+      "title": "Article V (III) — Love and Fulfilling the Law",
+      "display": "Apology of the Augsburg Confession, Article V (III) — Love and Fulfilling the Law",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_v_iii",
-      "markdown": "[Apology of the Augsburg Confession, Article V (III) â Love and Fulfilling the Law](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_v_iii)"
+      "markdown": "[Apology of the Augsburg Confession, Article V (III) — Love and Fulfilling the Law](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_v_iii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article VII and VIII",
-      "title": "Articles VII and VIII (IV) â The Church",
-      "display": "Apology of the Augsburg Confession, Articles VII and VIII (IV) â The Church",
+      "title": "Articles VII and VIII (IV) — The Church",
+      "display": "Apology of the Augsburg Confession, Articles VII and VIII (IV) — The Church",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/articles_vii_and_viii_iv/",
-      "markdown": "[Apology of the Augsburg Confession, Articles VII and VIII (IV) â The Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/articles_vii_and_viii_iv/)"
+      "markdown": "[Apology of the Augsburg Confession, Articles VII and VIII (IV) — The Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/articles_vii_and_viii_iv/)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article IX",
-      "title": "Article IX â Baptism",
-      "display": "Apology of the Augsburg Confession, Article IX â Baptism",
+      "title": "Article IX — Baptism",
+      "display": "Apology of the Augsburg Confession, Article IX — Baptism",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ix",
-      "markdown": "[Apology of the Augsburg Confession, Article IX â Baptism](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ix)"
+      "markdown": "[Apology of the Augsburg Confession, Article IX — Baptism](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_ix)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article X",
-      "title": "Article X â The Holy Supper",
-      "display": "Apology of the Augsburg Confession, Article X â The Holy Supper",
+      "title": "Article X — The Holy Supper",
+      "display": "Apology of the Augsburg Confession, Article X — The Holy Supper",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_x",
-      "markdown": "[Apology of the Augsburg Confession, Article X â The Holy Supper](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_x)"
+      "markdown": "[Apology of the Augsburg Confession, Article X — The Holy Supper](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_x)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XI",
-      "title": "Article XI â Confession",
-      "display": "Apology of the Augsburg Confession, Article XI â Confession",
+      "title": "Article XI — Confession",
+      "display": "Apology of the Augsburg Confession, Article XI — Confession",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xi",
-      "markdown": "[Apology of the Augsburg Confession, Article XI â Confession](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xi)"
+      "markdown": "[Apology of the Augsburg Confession, Article XI — Confession](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xi)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XIIa",
-      "title": "Article XIIa (V) â Repentance",
-      "display": "Apology of the Augsburg Confession, Article XIIa (V) â Repentance",
+      "title": "Article XIIa (V) — Repentance",
+      "display": "Apology of the Augsburg Confession, Article XIIa (V) — Repentance",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiia_v/",
-      "markdown": "[Apology of the Augsburg Confession, Article XIIa (V) â Repentance](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiia_v/)"
+      "markdown": "[Apology of the Augsburg Confession, Article XIIa (V) — Repentance](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiia_v/)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XIIb",
-      "title": "Article XIIb (VI) â Confession and Satisfaction",
-      "display": "Apology of the Augsburg Confession, Article XIIb (VI) â Confession and Satisfaction",
+      "title": "Article XIIb (VI) — Confession and Satisfaction",
+      "display": "Apology of the Augsburg Confession, Article XIIb (VI) — Confession and Satisfaction",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiib_vi/",
-      "markdown": "[Apology of the Augsburg Confession, Article XIIb (VI) â Confession and Satisfaction](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiib_vi/)"
+      "markdown": "[Apology of the Augsburg Confession, Article XIIb (VI) — Confession and Satisfaction](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiib_vi/)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XIII",
-      "title": "Article XIII (VII) â The Number and Use of the Sacraments",
-      "display": "Apology of the Augsburg Confession, Article XIII (VII) â The Number and Use of the Sacraments",
+      "title": "Article XIII (VII) — The Number and Use of the Sacraments",
+      "display": "Apology of the Augsburg Confession, Article XIII (VII) — The Number and Use of the Sacraments",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiii_vii",
-      "markdown": "[Apology of the Augsburg Confession, Article XIII (VII) â The Number and Use of the Sacraments](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiii_vii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XIII (VII) — The Number and Use of the Sacraments](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiii_vii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XIV",
-      "title": "Article XIV â Order in the Church",
-      "display": "Apology of the Augsburg Confession, Article XIV â Order in the Church",
+      "title": "Article XIV — Order in the Church",
+      "display": "Apology of the Augsburg Confession, Article XIV — Order in the Church",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiv",
-      "markdown": "[Apology of the Augsburg Confession, Article XIV â Order in the Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiv)"
+      "markdown": "[Apology of the Augsburg Confession, Article XIV — Order in the Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xiv)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XV",
-      "title": "Article XV (VIII) â Human Traditions in the Church",
-      "display": "Apology of the Augsburg Confession, Article XV (VIII) â Human Traditions in the Church",
+      "title": "Article XV (VIII) — Human Traditions in the Church",
+      "display": "Apology of the Augsburg Confession, Article XV (VIII) — Human Traditions in the Church",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xv_viii",
-      "markdown": "[Apology of the Augsburg Confession, Article XV (VIII) â Human Traditions in the Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xv_viii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XV (VIII) — Human Traditions in the Church](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xv_viii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XVI",
-      "title": "Article XVI â Political Order",
-      "display": "Apology of the Augsburg Confession, Article XVI â Political Order",
+      "title": "Article XVI — Political Order",
+      "display": "Apology of the Augsburg Confession, Article XVI — Political Order",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvi",
-      "markdown": "[Apology of the Augsburg Confession, Article XVI â Political Order](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvi)"
+      "markdown": "[Apology of the Augsburg Confession, Article XVI — Political Order](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvi)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XVII",
-      "title": "Article XVII â Christâs Return for Judgment",
-      "display": "Apology of the Augsburg Confession, Article XVII â Christâs Return for Judgment",
+      "title": "Article XVII — Christ’s Return for Judgment",
+      "display": "Apology of the Augsburg Confession, Article XVII — Christ’s Return for Judgment",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvii",
-      "markdown": "[Apology of the Augsburg Confession, Article XVII â Christâs Return for Judgment](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XVII — Christ’s Return for Judgment](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xvii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XVIII",
-      "title": "Article XVIII â Free Will",
-      "display": "Apology of the Augsburg Confession, Article XVIII â Free Will",
+      "title": "Article XVIII — Free Will",
+      "display": "Apology of the Augsburg Confession, Article XVIII — Free Will",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xviii",
-      "markdown": "[Apology of the Augsburg Confession, Article XVIII â Free Will](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xviii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XVIII — Free Will](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xviii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XIX",
-      "title": "Article XIX â The Cause of Sin",
-      "display": "Apology of the Augsburg Confession, Article XIX â The Cause of Sin",
+      "title": "Article XIX — The Cause of Sin",
+      "display": "Apology of the Augsburg Confession, Article XIX — The Cause of Sin",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xix",
-      "markdown": "[Apology of the Augsburg Confession, Article XIX â The Cause of Sin](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xix)"
+      "markdown": "[Apology of the Augsburg Confession, Article XIX — The Cause of Sin](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xix)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XX",
-      "title": "Article XX â Good Works",
-      "display": "Apology of the Augsburg Confession, Article XX â Good Works",
+      "title": "Article XX — Good Works",
+      "display": "Apology of the Augsburg Confession, Article XX — Good Works",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xx",
-      "markdown": "[Apology of the Augsburg Confession, Article XX â Good Works](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xx)"
+      "markdown": "[Apology of the Augsburg Confession, Article XX — Good Works](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xx)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXI",
-      "title": "Article XXI (IX) â The Invocation of Saints",
-      "display": "Apology of the Augsburg Confession, Article XXI (IX) â The Invocation of Saints",
+      "title": "Article XXI (IX) — The Invocation of Saints",
+      "display": "Apology of the Augsburg Confession, Article XXI (IX) — The Invocation of Saints",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxi_ix",
-      "markdown": "[Apology of the Augsburg Confession, Article XXI (IX) â The Invocation of Saints](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxi_ix)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXI (IX) — The Invocation of Saints](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxi_ix)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXII",
-      "title": "Article XXII (X) â Both Kinds in the Lordâs Supper",
-      "display": "Apology of the Augsburg Confession, Article XXII (X) â Both Kinds in the Lordâs Supper",
+      "title": "Article XXII (X) — Both Kinds in the Lord’s Supper",
+      "display": "Apology of the Augsburg Confession, Article XXII (X) — Both Kinds in the Lord’s Supper",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxii_x",
-      "markdown": "[Apology of the Augsburg Confession, Article XXII (X) â Both Kinds in the Lordâs Supper](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxii_x)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXII (X) — Both Kinds in the Lord’s Supper](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxii_x)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXIII",
-      "title": "Article XXIII (XI) â The Marriage of Priests",
-      "display": "Apology of the Augsburg Confession, Article XXIII (XI) â The Marriage of Priests",
+      "title": "Article XXIII (XI) — The Marriage of Priests",
+      "display": "Apology of the Augsburg Confession, Article XXIII (XI) — The Marriage of Priests",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiii_xi",
-      "markdown": "[Apology of the Augsburg Confession, Article XXIII (XI) â The Marriage of Priests](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiii_xi)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXIII (XI) — The Marriage of Priests](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiii_xi)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXIV",
-      "title": "Article XXIV (XII) â The Mass",
-      "display": "Apology of the Augsburg Confession, Article XXIV (XII) â The Mass",
+      "title": "Article XXIV (XII) — The Mass",
+      "display": "Apology of the Augsburg Confession, Article XXIV (XII) — The Mass",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiv_xii",
-      "markdown": "[Apology of the Augsburg Confession, Article XXIV (XII) â The Mass](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiv_xii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXIV (XII) — The Mass](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxiv_xii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXVII",
-      "title": "Article XXVII (XIII) â Monastic Vows",
-      "display": "Apology of the Augsburg Confession, Article XXVII (XIII) â Monastic Vows",
+      "title": "Article XXVII (XIII) — Monastic Vows",
+      "display": "Apology of the Augsburg Confession, Article XXVII (XIII) — Monastic Vows",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxvii_xiii",
-      "markdown": "[Apology of the Augsburg Confession, Article XXVII (XIII) â Monastic Vows](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxvii_xiii)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXVII (XIII) — Monastic Vows](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxvii_xiii)"
     },
     {
       "document": "Apology of the Augsburg Confession",
       "section_key": "Article XXVIII",
-      "title": "Article XXVIII (XIV) â Church Authority",
-      "display": "Apology of the Augsburg Confession, Article XXVIII (XIV) â Church Authority",
+      "title": "Article XXVIII (XIV) — Church Authority",
+      "display": "Apology of the Augsburg Confession, Article XXVIII (XIV) — Church Authority",
       "url": "https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxviii_xiv",
-      "markdown": "[Apology of the Augsburg Confession, Article XXVIII (XIV) â Church Authority](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxviii_xiv)"
+      "markdown": "[Apology of the Augsburg Confession, Article XXVIII (XIV) — Church Authority](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_xxviii_xiv)"
     },
     {
       "document": "Smalcald Articles",
@@ -882,154 +882,154 @@
     {
       "document": "Smalcald Articles",
       "section_key": "Part II Article I",
-      "title": "Part II, Article I â The Chief Article",
-      "display": "Smalcald Articles, Part II, Article I â The Chief Article",
+      "title": "Part II, Article I — The Chief Article",
+      "display": "Smalcald Articles, Part II, Article I — The Chief Article",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_i",
-      "markdown": "[Smalcald Articles, Part II, Article I â The Chief Article](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_i)"
+      "markdown": "[Smalcald Articles, Part II, Article I — The Chief Article](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_i)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part II Article II",
-      "title": "Part II, Article II â The Mass",
-      "display": "Smalcald Articles, Part II, Article II â The Mass",
+      "title": "Part II, Article II — The Mass",
+      "display": "Smalcald Articles, Part II, Article II — The Mass",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_ii",
-      "markdown": "[Smalcald Articles, Part II, Article II â The Mass](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_ii)"
+      "markdown": "[Smalcald Articles, Part II, Article II — The Mass](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_ii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part II Article III",
-      "title": "Part II, Article III â Chapters and Cloisters",
-      "display": "Smalcald Articles, Part II, Article III â Chapters and Cloisters",
+      "title": "Part II, Article III — Chapters and Cloisters",
+      "display": "Smalcald Articles, Part II, Article III — Chapters and Cloisters",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iii",
-      "markdown": "[Smalcald Articles, Part II, Article III â Chapters and Cloisters](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iii)"
+      "markdown": "[Smalcald Articles, Part II, Article III — Chapters and Cloisters](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part II Article IV",
-      "title": "Part II, Article IV â The Papacy",
-      "display": "Smalcald Articles, Part II, Article IV â The Papacy",
+      "title": "Part II, Article IV — The Papacy",
+      "display": "Smalcald Articles, Part II, Article IV — The Papacy",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iv",
-      "markdown": "[Smalcald Articles, Part II, Article IV â The Papacy](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iv)"
+      "markdown": "[Smalcald Articles, Part II, Article IV — The Papacy](https://bookofconcord.cph.org/en/smalcald-articles/second_part/article_iv)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article I",
-      "title": "Part III, Article I â Sin",
-      "display": "Smalcald Articles, Part III, Article I â Sin",
+      "title": "Part III, Article I — Sin",
+      "display": "Smalcald Articles, Part III, Article I — Sin",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_i",
-      "markdown": "[Smalcald Articles, Part III, Article I â Sin](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_i)"
+      "markdown": "[Smalcald Articles, Part III, Article I — Sin](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_i)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article II",
-      "title": "Part III, Article II â The Law",
-      "display": "Smalcald Articles, Part III, Article II â The Law",
+      "title": "Part III, Article II — The Law",
+      "display": "Smalcald Articles, Part III, Article II — The Law",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ii",
-      "markdown": "[Smalcald Articles, Part III, Article II â The Law](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ii)"
+      "markdown": "[Smalcald Articles, Part III, Article II — The Law](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article III",
-      "title": "Part III, Article III â Repentance",
-      "display": "Smalcald Articles, Part III, Article III â Repentance",
+      "title": "Part III, Article III — Repentance",
+      "display": "Smalcald Articles, Part III, Article III — Repentance",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iii",
-      "markdown": "[Smalcald Articles, Part III, Article III â Repentance](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iii)"
+      "markdown": "[Smalcald Articles, Part III, Article III — Repentance](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article IV",
-      "title": "Part III, Article IV â The Gospel",
-      "display": "Smalcald Articles, Part III, Article IV â The Gospel",
+      "title": "Part III, Article IV — The Gospel",
+      "display": "Smalcald Articles, Part III, Article IV — The Gospel",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iv",
-      "markdown": "[Smalcald Articles, Part III, Article IV â The Gospel](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iv)"
+      "markdown": "[Smalcald Articles, Part III, Article IV — The Gospel](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_iv)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article V",
-      "title": "Part III, Article V â Baptism",
-      "display": "Smalcald Articles, Part III, Article V â Baptism",
+      "title": "Part III, Article V — Baptism",
+      "display": "Smalcald Articles, Part III, Article V — Baptism",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_v",
-      "markdown": "[Smalcald Articles, Part III, Article V â Baptism](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_v)"
+      "markdown": "[Smalcald Articles, Part III, Article V — Baptism](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_v)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article VI",
-      "title": "Part III, Article VI â The Sacrament of the Altar",
-      "display": "Smalcald Articles, Part III, Article VI â The Sacrament of the Altar",
+      "title": "Part III, Article VI — The Sacrament of the Altar",
+      "display": "Smalcald Articles, Part III, Article VI — The Sacrament of the Altar",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vi",
-      "markdown": "[Smalcald Articles, Part III, Article VI â The Sacrament of the Altar](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vi)"
+      "markdown": "[Smalcald Articles, Part III, Article VI — The Sacrament of the Altar](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vi)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article VII",
-      "title": "Part III, Article VII â The Keys",
-      "display": "Smalcald Articles, Part III, Article VII â The Keys",
+      "title": "Part III, Article VII — The Keys",
+      "display": "Smalcald Articles, Part III, Article VII — The Keys",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vii",
-      "markdown": "[Smalcald Articles, Part III, Article VII â The Keys](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vii)"
+      "markdown": "[Smalcald Articles, Part III, Article VII — The Keys](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_vii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article VIII",
-      "title": "Part III, Article VIII â Confession",
-      "display": "Smalcald Articles, Part III, Article VIII â Confession",
+      "title": "Part III, Article VIII — Confession",
+      "display": "Smalcald Articles, Part III, Article VIII — Confession",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_viii",
-      "markdown": "[Smalcald Articles, Part III, Article VIII â Confession](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_viii)"
+      "markdown": "[Smalcald Articles, Part III, Article VIII — Confession](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_viii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article IX",
-      "title": "Part III, Article IX â Excommunication",
-      "display": "Smalcald Articles, Part III, Article IX â Excommunication",
+      "title": "Part III, Article IX — Excommunication",
+      "display": "Smalcald Articles, Part III, Article IX — Excommunication",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ix",
-      "markdown": "[Smalcald Articles, Part III, Article IX â Excommunication](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ix)"
+      "markdown": "[Smalcald Articles, Part III, Article IX — Excommunication](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_ix)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article X",
-      "title": "Part III, Article X â Ordination and the Call",
-      "display": "Smalcald Articles, Part III, Article X â Ordination and the Call",
+      "title": "Part III, Article X — Ordination and the Call",
+      "display": "Smalcald Articles, Part III, Article X — Ordination and the Call",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_x",
-      "markdown": "[Smalcald Articles, Part III, Article X â Ordination and the Call](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_x)"
+      "markdown": "[Smalcald Articles, Part III, Article X — Ordination and the Call](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_x)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article XI",
-      "title": "Part III, Article XI â The Marriage of Priests",
-      "display": "Smalcald Articles, Part III, Article XI â The Marriage of Priests",
+      "title": "Part III, Article XI — The Marriage of Priests",
+      "display": "Smalcald Articles, Part III, Article XI — The Marriage of Priests",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xi",
-      "markdown": "[Smalcald Articles, Part III, Article XI â The Marriage of Priests](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xi)"
+      "markdown": "[Smalcald Articles, Part III, Article XI — The Marriage of Priests](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xi)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article XII",
-      "title": "Part III, Article XII â The Church",
-      "display": "Smalcald Articles, Part III, Article XII â The Church",
+      "title": "Part III, Article XII — The Church",
+      "display": "Smalcald Articles, Part III, Article XII — The Church",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xii",
-      "markdown": "[Smalcald Articles, Part III, Article XII â The Church](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xii)"
+      "markdown": "[Smalcald Articles, Part III, Article XII — The Church](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article XIII",
-      "title": "Part III, Article XIII â How One Is Justified Before God and Does Good Works",
-      "display": "Smalcald Articles, Part III, Article XIII â How One Is Justified Before God and Does Good Works",
+      "title": "Part III, Article XIII — How One Is Justified Before God and Does Good Works",
+      "display": "Smalcald Articles, Part III, Article XIII — How One Is Justified Before God and Does Good Works",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiii",
-      "markdown": "[Smalcald Articles, Part III, Article XIII â How One Is Justified Before God and Does Good Works](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiii)"
+      "markdown": "[Smalcald Articles, Part III, Article XIII — How One Is Justified Before God and Does Good Works](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiii)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article XIV",
-      "title": "Part III, Article XIV â Monastic Vows",
-      "display": "Smalcald Articles, Part III, Article XIV â Monastic Vows",
+      "title": "Part III, Article XIV — Monastic Vows",
+      "display": "Smalcald Articles, Part III, Article XIV — Monastic Vows",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiv",
-      "markdown": "[Smalcald Articles, Part III, Article XIV â Monastic Vows](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiv)"
+      "markdown": "[Smalcald Articles, Part III, Article XIV — Monastic Vows](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xiv)"
     },
     {
       "document": "Smalcald Articles",
       "section_key": "Part III Article XV",
-      "title": "Part III, Article XV â Human Traditions",
-      "display": "Smalcald Articles, Part III, Article XV â Human Traditions",
+      "title": "Part III, Article XV — Human Traditions",
+      "display": "Smalcald Articles, Part III, Article XV — Human Traditions",
       "url": "https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xv",
-      "markdown": "[Smalcald Articles, Part III, Article XV â Human Traditions](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xv)"
+      "markdown": "[Smalcald Articles, Part III, Article XV — Human Traditions](https://bookofconcord.cph.org/en/smalcald-articles/third_part/article_xv)"
     },
     {
       "document": "Treatise on the Power and Primacy of the Pope",
@@ -1043,448 +1043,448 @@
       "document": "Small Catechism",
       "section_key": "Ten Commandments",
       "title": "The Ten Commandments",
-      "display": "Small Catechism â The Ten Commandments",
+      "display": "Small Catechism — The Ten Commandments",
       "url": "https://bookofconcord.cph.org/en/small-catechism/ten-commandments",
-      "markdown": "[Small Catechism â The Ten Commandments](https://bookofconcord.cph.org/en/small-catechism/ten-commandments)"
+      "markdown": "[Small Catechism — The Ten Commandments](https://bookofconcord.cph.org/en/small-catechism/ten-commandments)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Creed",
       "title": "The Creed",
-      "display": "Small Catechism â The Creed",
+      "display": "Small Catechism — The Creed",
       "url": "https://bookofconcord.cph.org/en/small-catechism/apostles-creed",
-      "markdown": "[Small Catechism â The Creed](https://bookofconcord.cph.org/en/small-catechism/apostles-creed)"
+      "markdown": "[Small Catechism — The Creed](https://bookofconcord.cph.org/en/small-catechism/apostles-creed)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Lord's Prayer",
-      "title": "The Lordâs Prayer",
-      "display": "Small Catechism â The Lordâs Prayer",
+      "title": "The Lord’s Prayer",
+      "display": "Small Catechism — The Lord’s Prayer",
       "url": "https://bookofconcord.cph.org/en/small-catechism/lords-prayer",
-      "markdown": "[Small Catechism â The Lordâs Prayer](https://bookofconcord.cph.org/en/small-catechism/lords-prayer)"
+      "markdown": "[Small Catechism — The Lord’s Prayer](https://bookofconcord.cph.org/en/small-catechism/lords-prayer)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Baptism",
       "title": "The Sacrament of Holy Baptism",
-      "display": "Small Catechism â The Sacrament of Holy Baptism",
+      "display": "Small Catechism — The Sacrament of Holy Baptism",
       "url": "https://bookofconcord.cph.org/en/small-catechism/baptism",
-      "markdown": "[Small Catechism â The Sacrament of Holy Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism)"
+      "markdown": "[Small Catechism — The Sacrament of Holy Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Confession",
       "title": "Confession",
-      "display": "Small Catechism â Confession",
+      "display": "Small Catechism — Confession",
       "url": "https://bookofconcord.cph.org/en/small-catechism/confession",
-      "markdown": "[Small Catechism â Confession](https://bookofconcord.cph.org/en/small-catechism/confession)"
+      "markdown": "[Small Catechism — Confession](https://bookofconcord.cph.org/en/small-catechism/confession)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Sacrament of the Altar",
       "title": "The Sacrament of the Altar",
-      "display": "Small Catechism â The Sacrament of the Altar",
+      "display": "Small Catechism — The Sacrament of the Altar",
       "url": "https://bookofconcord.cph.org/en/small-catechism/communion",
-      "markdown": "[Small Catechism â The Sacrament of the Altar](https://bookofconcord.cph.org/en/small-catechism/communion)"
+      "markdown": "[Small Catechism — The Sacrament of the Altar](https://bookofconcord.cph.org/en/small-catechism/communion)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Daily Prayers",
       "title": "Daily Prayers",
-      "display": "Small Catechism â Daily Prayers",
+      "display": "Small Catechism — Daily Prayers",
       "url": "https://bookofconcord.cph.org/en/small-catechism/daily-prayer",
-      "markdown": "[Small Catechism â Daily Prayers](https://bookofconcord.cph.org/en/small-catechism/daily-prayer)"
+      "markdown": "[Small Catechism — Daily Prayers](https://bookofconcord.cph.org/en/small-catechism/daily-prayer)"
     },
     {
       "document": "Small Catechism",
       "section_key": "Table of Duties",
       "title": "Table of Duties",
-      "display": "Small Catechism â Table of Duties",
+      "display": "Small Catechism — Table of Duties",
       "url": "https://bookofconcord.cph.org/en/small-catechism/table-of-duties",
-      "markdown": "[Small Catechism â Table of Duties](https://bookofconcord.cph.org/en/small-catechism/table-of-duties)"
+      "markdown": "[Small Catechism — Table of Duties](https://bookofconcord.cph.org/en/small-catechism/table-of-duties)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Preface",
       "title": "Preface of Dr. Martin Luther",
-      "display": "Large Catechism â Preface of Dr. Martin Luther",
+      "display": "Large Catechism — Preface of Dr. Martin Luther",
       "url": "https://bookofconcord.cph.org/en/large-catechism/preface/",
-      "markdown": "[Large Catechism â Preface of Dr. Martin Luther](https://bookofconcord.cph.org/en/large-catechism/preface/)"
+      "markdown": "[Large Catechism — Preface of Dr. Martin Luther](https://bookofconcord.cph.org/en/large-catechism/preface/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Short Preface",
       "title": "Short Preface of Dr. Martin Luther",
-      "display": "Large Catechism â Short Preface of Dr. Martin Luther",
+      "display": "Large Catechism — Short Preface of Dr. Martin Luther",
       "url": "https://bookofconcord.cph.org/en/large-catechism/short_preface_of_luther/",
-      "markdown": "[Large Catechism â Short Preface of Dr. Martin Luther](https://bookofconcord.cph.org/en/large-catechism/short_preface_of_luther/)"
+      "markdown": "[Large Catechism — Short Preface of Dr. Martin Luther](https://bookofconcord.cph.org/en/large-catechism/short_preface_of_luther/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "First Commandment",
       "title": "The First Commandment",
-      "display": "Large Catechism â The First Commandment",
+      "display": "Large Catechism — The First Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_first_commandment/",
-      "markdown": "[Large Catechism â The First Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_first_commandment/)"
+      "markdown": "[Large Catechism — The First Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_first_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Second Commandment",
       "title": "The Second Commandment",
-      "display": "Large Catechism â The Second Commandment",
+      "display": "Large Catechism — The Second Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_second_commandment/",
-      "markdown": "[Large Catechism â The Second Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_second_commandment/)"
+      "markdown": "[Large Catechism — The Second Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_second_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Third Commandment",
       "title": "The Third Commandment",
-      "display": "Large Catechism â The Third Commandment",
+      "display": "Large Catechism — The Third Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_third_commandment/",
-      "markdown": "[Large Catechism â The Third Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_third_commandment/)"
+      "markdown": "[Large Catechism — The Third Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_third_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Fourth Commandment",
       "title": "The Fourth Commandment",
-      "display": "Large Catechism â The Fourth Commandment",
+      "display": "Large Catechism — The Fourth Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_fourth_commandment/",
-      "markdown": "[Large Catechism â The Fourth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_fourth_commandment/)"
+      "markdown": "[Large Catechism — The Fourth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_fourth_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Fifth Commandment",
       "title": "The Fifth Commandment",
-      "display": "Large Catechism â The Fifth Commandment",
+      "display": "Large Catechism — The Fifth Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_fifth_commandment/",
-      "markdown": "[Large Catechism â The Fifth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_fifth_commandment/)"
+      "markdown": "[Large Catechism — The Fifth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_fifth_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Sixth Commandment",
       "title": "The Sixth Commandment",
-      "display": "Large Catechism â The Sixth Commandment",
+      "display": "Large Catechism — The Sixth Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_sixth_commandment/",
-      "markdown": "[Large Catechism â The Sixth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_sixth_commandment/)"
+      "markdown": "[Large Catechism — The Sixth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_sixth_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Seventh Commandment",
       "title": "The Seventh Commandment",
-      "display": "Large Catechism â The Seventh Commandment",
+      "display": "Large Catechism — The Seventh Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_seventh_commandment/",
-      "markdown": "[Large Catechism â The Seventh Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_seventh_commandment/)"
+      "markdown": "[Large Catechism — The Seventh Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_seventh_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Eighth Commandment",
       "title": "The Eighth Commandment",
-      "display": "Large Catechism â The Eighth Commandment",
+      "display": "Large Catechism — The Eighth Commandment",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_eighth_commandment/",
-      "markdown": "[Large Catechism â The Eighth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_eighth_commandment/)"
+      "markdown": "[Large Catechism — The Eighth Commandment](https://bookofconcord.cph.org/en/large-catechism/part_1/the_eighth_commandment/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Ninth and Tenth Commandments",
       "title": "The Ninth and Tenth Commandments",
-      "display": "Large Catechism â The Ninth and Tenth Commandments",
+      "display": "Large Catechism — The Ninth and Tenth Commandments",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_1/the_ninth_and_tenth_commandments/",
-      "markdown": "[Large Catechism â The Ninth and Tenth Commandments](https://bookofconcord.cph.org/en/large-catechism/part_1/the_ninth_and_tenth_commandments/)"
+      "markdown": "[Large Catechism — The Ninth and Tenth Commandments](https://bookofconcord.cph.org/en/large-catechism/part_1/the_ninth_and_tenth_commandments/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "First Article",
       "title": "The First Article",
-      "display": "Large Catechism â The First Article",
+      "display": "Large Catechism — The First Article",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_2/article_i/",
-      "markdown": "[Large Catechism â The First Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_i/)"
+      "markdown": "[Large Catechism — The First Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_i/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Second Article",
       "title": "The Second Article",
-      "display": "Large Catechism â The Second Article",
+      "display": "Large Catechism — The Second Article",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_2/article_ii/",
-      "markdown": "[Large Catechism â The Second Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_ii/)"
+      "markdown": "[Large Catechism — The Second Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_ii/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Third Article",
       "title": "The Third Article",
-      "display": "Large Catechism â The Third Article",
+      "display": "Large Catechism — The Third Article",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_2/article_iii/",
-      "markdown": "[Large Catechism â The Third Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_iii/)"
+      "markdown": "[Large Catechism — The Third Article](https://bookofconcord.cph.org/en/large-catechism/part_2/article_iii/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "First Petition",
       "title": "The First Petition",
-      "display": "Large Catechism â The First Petition",
+      "display": "Large Catechism — The First Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_first_petition/",
-      "markdown": "[Large Catechism â The First Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_first_petition/)"
+      "markdown": "[Large Catechism — The First Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_first_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Second Petition",
       "title": "The Second Petition",
-      "display": "Large Catechism â The Second Petition",
+      "display": "Large Catechism — The Second Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_second_petition/",
-      "markdown": "[Large Catechism â The Second Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_second_petition/)"
+      "markdown": "[Large Catechism — The Second Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_second_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Third Petition",
       "title": "The Third Petition",
-      "display": "Large Catechism â The Third Petition",
+      "display": "Large Catechism — The Third Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_third_petition/",
-      "markdown": "[Large Catechism â The Third Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_third_petition/)"
+      "markdown": "[Large Catechism — The Third Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_third_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Fourth Petition",
       "title": "The Fourth Petition",
-      "display": "Large Catechism â The Fourth Petition",
+      "display": "Large Catechism — The Fourth Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_fourth_petition/",
-      "markdown": "[Large Catechism â The Fourth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_fourth_petition/)"
+      "markdown": "[Large Catechism — The Fourth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_fourth_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Fifth Petition",
       "title": "The Fifth Petition",
-      "display": "Large Catechism â The Fifth Petition",
+      "display": "Large Catechism — The Fifth Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_fifth_petition/",
-      "markdown": "[Large Catechism â The Fifth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_fifth_petition/)"
+      "markdown": "[Large Catechism — The Fifth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_fifth_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Sixth Petition",
       "title": "The Sixth Petition",
-      "display": "Large Catechism â The Sixth Petition",
+      "display": "Large Catechism — The Sixth Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_sixth_petition/",
-      "markdown": "[Large Catechism â The Sixth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_sixth_petition/)"
+      "markdown": "[Large Catechism — The Sixth Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_sixth_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Seventh Petition",
       "title": "The Seventh and Last Petition",
-      "display": "Large Catechism â The Seventh and Last Petition",
+      "display": "Large Catechism — The Seventh and Last Petition",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_3/the_seventh_and_last_petition/",
-      "markdown": "[Large Catechism â The Seventh and Last Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_seventh_and_last_petition/)"
+      "markdown": "[Large Catechism — The Seventh and Last Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_seventh_and_last_petition/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Baptism",
       "title": "Baptism",
-      "display": "Large Catechism â Baptism",
+      "display": "Large Catechism — Baptism",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_4/",
-      "markdown": "[Large Catechism â Baptism](https://bookofconcord.cph.org/en/large-catechism/part_4/)"
+      "markdown": "[Large Catechism — Baptism](https://bookofconcord.cph.org/en/large-catechism/part_4/)"
     },
     {
       "document": "Large Catechism",
       "section_key": "Sacrament of the Altar",
       "title": "The Sacrament of the Altar",
-      "display": "Large Catechism â The Sacrament of the Altar",
+      "display": "Large Catechism — The Sacrament of the Altar",
       "url": "https://bookofconcord.cph.org/en/large-catechism/part_5/",
-      "markdown": "[Large Catechism â The Sacrament of the Altar](https://bookofconcord.cph.org/en/large-catechism/part_5/)"
+      "markdown": "[Large Catechism — The Sacrament of the Altar](https://bookofconcord.cph.org/en/large-catechism/part_5/)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article I",
-      "title": "Article I â Original Sin",
-      "display": "Formula of Concord Epitome, Article I â Original Sin",
+      "title": "Article I — Original Sin",
+      "display": "Formula of Concord Epitome, Article I — Original Sin",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/i_original_sin",
-      "markdown": "[Formula of Concord Epitome, Article I â Original Sin](https://bookofconcord.cph.org/en/formula-of-concord-epitome/i_original_sin)"
+      "markdown": "[Formula of Concord Epitome, Article I — Original Sin](https://bookofconcord.cph.org/en/formula-of-concord-epitome/i_original_sin)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article II",
-      "title": "Article II â Free Will",
-      "display": "Formula of Concord Epitome, Article II â Free Will",
+      "title": "Article II — Free Will",
+      "display": "Formula of Concord Epitome, Article II — Free Will",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/ii_free_will",
-      "markdown": "[Formula of Concord Epitome, Article II â Free Will](https://bookofconcord.cph.org/en/formula-of-concord-epitome/ii_free_will)"
+      "markdown": "[Formula of Concord Epitome, Article II — Free Will](https://bookofconcord.cph.org/en/formula-of-concord-epitome/ii_free_will)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article III",
-      "title": "Article III â The Righteousness of Faith Before God",
-      "display": "Formula of Concord Epitome, Article III â The Righteousness of Faith Before God",
+      "title": "Article III — The Righteousness of Faith Before God",
+      "display": "Formula of Concord Epitome, Article III — The Righteousness of Faith Before God",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/iii_the_righteousness_of_faith_before_god",
-      "markdown": "[Formula of Concord Epitome, Article III â The Righteousness of Faith Before God](https://bookofconcord.cph.org/en/formula-of-concord-epitome/iii_the_righteousness_of_faith_before_god)"
+      "markdown": "[Formula of Concord Epitome, Article III — The Righteousness of Faith Before God](https://bookofconcord.cph.org/en/formula-of-concord-epitome/iii_the_righteousness_of_faith_before_god)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article IV",
-      "title": "Article IV â Good Works",
-      "display": "Formula of Concord Epitome, Article IV â Good Works",
+      "title": "Article IV — Good Works",
+      "display": "Formula of Concord Epitome, Article IV — Good Works",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/iv_good_works",
-      "markdown": "[Formula of Concord Epitome, Article IV â Good Works](https://bookofconcord.cph.org/en/formula-of-concord-epitome/iv_good_works)"
+      "markdown": "[Formula of Concord Epitome, Article IV — Good Works](https://bookofconcord.cph.org/en/formula-of-concord-epitome/iv_good_works)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article V",
-      "title": "Article V â The Law and the Gospel",
-      "display": "Formula of Concord Epitome, Article V â The Law and the Gospel",
+      "title": "Article V — The Law and the Gospel",
+      "display": "Formula of Concord Epitome, Article V — The Law and the Gospel",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel",
-      "markdown": "[Formula of Concord Epitome, Article V â The Law and the Gospel](https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel)"
+      "markdown": "[Formula of Concord Epitome, Article V — The Law and the Gospel](https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article VI",
-      "title": "Article VI â The Third Use of Godâs Law",
-      "display": "Formula of Concord Epitome, Article VI â The Third Use of Godâs Law",
+      "title": "Article VI — The Third Use of God’s Law",
+      "display": "Formula of Concord Epitome, Article VI — The Third Use of God’s Law",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vi_the_third_use_of_gods_law",
-      "markdown": "[Formula of Concord Epitome, Article VI â The Third Use of Godâs Law](https://bookofconcord.cph.org/en/formula-of-concord-epitome/vi_the_third_use_of_gods_law)"
+      "markdown": "[Formula of Concord Epitome, Article VI — The Third Use of God’s Law](https://bookofconcord.cph.org/en/formula-of-concord-epitome/vi_the_third_use_of_gods_law)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article VII",
-      "title": "Article VII â The Holy Supper of Christ",
-      "display": "Formula of Concord Epitome, Article VII â The Holy Supper of Christ",
+      "title": "Article VII — The Holy Supper of Christ",
+      "display": "Formula of Concord Epitome, Article VII — The Holy Supper of Christ",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ",
-      "markdown": "[Formula of Concord Epitome, Article VII â The Holy Supper of Christ](https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ)"
+      "markdown": "[Formula of Concord Epitome, Article VII — The Holy Supper of Christ](https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article VIII",
-      "title": "Article VIII â The Person of Christ",
-      "display": "Formula of Concord Epitome, Article VIII â The Person of Christ",
+      "title": "Article VIII — The Person of Christ",
+      "display": "Formula of Concord Epitome, Article VIII — The Person of Christ",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/viii_the_person_of_christ",
-      "markdown": "[Formula of Concord Epitome, Article VIII â The Person of Christ](https://bookofconcord.cph.org/en/formula-of-concord-epitome/viii_the_person_of_christ)"
+      "markdown": "[Formula of Concord Epitome, Article VIII — The Person of Christ](https://bookofconcord.cph.org/en/formula-of-concord-epitome/viii_the_person_of_christ)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article IX",
-      "title": "Article IX â The Descent of Christ to Hell",
-      "display": "Formula of Concord Epitome, Article IX â The Descent of Christ to Hell",
+      "title": "Article IX — The Descent of Christ to Hell",
+      "display": "Formula of Concord Epitome, Article IX — The Descent of Christ to Hell",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/ix_the_descent_of_christ_to_hell",
-      "markdown": "[Formula of Concord Epitome, Article IX â The Descent of Christ to Hell](https://bookofconcord.cph.org/en/formula-of-concord-epitome/ix_the_descent_of_christ_to_hell)"
+      "markdown": "[Formula of Concord Epitome, Article IX — The Descent of Christ to Hell](https://bookofconcord.cph.org/en/formula-of-concord-epitome/ix_the_descent_of_christ_to_hell)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article X",
-      "title": "Article X â Church Practices",
-      "display": "Formula of Concord Epitome, Article X â Church Practices",
+      "title": "Article X — Church Practices",
+      "display": "Formula of Concord Epitome, Article X — Church Practices",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/x_church_practices",
-      "markdown": "[Formula of Concord Epitome, Article X â Church Practices](https://bookofconcord.cph.org/en/formula-of-concord-epitome/x_church_practices)"
+      "markdown": "[Formula of Concord Epitome, Article X — Church Practices](https://bookofconcord.cph.org/en/formula-of-concord-epitome/x_church_practices)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article XI",
-      "title": "Article XI â Godâs Eternal Foreknowledge and Election",
-      "display": "Formula of Concord Epitome, Article XI â Godâs Eternal Foreknowledge and Election",
+      "title": "Article XI — God’s Eternal Foreknowledge and Election",
+      "display": "Formula of Concord Epitome, Article XI — God’s Eternal Foreknowledge and Election",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/xi_gods_eternal_foreknowledge_and_election",
-      "markdown": "[Formula of Concord Epitome, Article XI â Godâs Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-epitome/xi_gods_eternal_foreknowledge_and_election)"
+      "markdown": "[Formula of Concord Epitome, Article XI — God’s Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-epitome/xi_gods_eternal_foreknowledge_and_election)"
     },
     {
       "document": "Formula of Concord Epitome",
       "section_key": "Article XII",
-      "title": "Article XII â Other Factions and Sects",
-      "display": "Formula of Concord Epitome, Article XII â Other Factions and Sects",
+      "title": "Article XII — Other Factions and Sects",
+      "display": "Formula of Concord Epitome, Article XII — Other Factions and Sects",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/xii_other_factions_and_sects",
-      "markdown": "[Formula of Concord Epitome, Article XII â Other Factions and Sects](https://bookofconcord.cph.org/en/formula-of-concord-epitome/xii_other_factions_and_sects)"
+      "markdown": "[Formula of Concord Epitome, Article XII — Other Factions and Sects](https://bookofconcord.cph.org/en/formula-of-concord-epitome/xii_other_factions_and_sects)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article I",
-      "title": "Article I â Original Sin",
-      "display": "Formula of Concord Solid Declaration, Article I â Original Sin",
+      "title": "Article I — Original Sin",
+      "display": "Formula of Concord Solid Declaration, Article I — Original Sin",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/i_original_sin",
-      "markdown": "[Formula of Concord Solid Declaration, Article I â Original Sin](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/i_original_sin)"
+      "markdown": "[Formula of Concord Solid Declaration, Article I — Original Sin](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/i_original_sin)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article II",
-      "title": "Article II â Free Will or Human Powers",
-      "display": "Formula of Concord Solid Declaration, Article II â Free Will or Human Powers",
+      "title": "Article II — Free Will or Human Powers",
+      "display": "Formula of Concord Solid Declaration, Article II — Free Will or Human Powers",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ii_free_will_or_human_powers",
-      "markdown": "[Formula of Concord Solid Declaration, Article II â Free Will or Human Powers](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ii_free_will_or_human_powers)"
+      "markdown": "[Formula of Concord Solid Declaration, Article II — Free Will or Human Powers](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ii_free_will_or_human_powers)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article III",
-      "title": "Article III â The Righteousness of Faith Before God",
-      "display": "Formula of Concord Solid Declaration, Article III â The Righteousness of Faith Before God",
+      "title": "Article III — The Righteousness of Faith Before God",
+      "display": "Formula of Concord Solid Declaration, Article III — The Righteousness of Faith Before God",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iii_the_righteousness_of_faith_before_god",
-      "markdown": "[Formula of Concord Solid Declaration, Article III â The Righteousness of Faith Before God](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iii_the_righteousness_of_faith_before_god)"
+      "markdown": "[Formula of Concord Solid Declaration, Article III — The Righteousness of Faith Before God](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iii_the_righteousness_of_faith_before_god)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article IV",
-      "title": "Article IV â Good Works",
-      "display": "Formula of Concord Solid Declaration, Article IV â Good Works",
+      "title": "Article IV — Good Works",
+      "display": "Formula of Concord Solid Declaration, Article IV — Good Works",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iv_good_works",
-      "markdown": "[Formula of Concord Solid Declaration, Article IV â Good Works](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iv_good_works)"
+      "markdown": "[Formula of Concord Solid Declaration, Article IV — Good Works](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/iv_good_works)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article V",
-      "title": "Article V â The Law and the Gospel",
-      "display": "Formula of Concord Solid Declaration, Article V â The Law and the Gospel",
+      "title": "Article V — The Law and the Gospel",
+      "display": "Formula of Concord Solid Declaration, Article V — The Law and the Gospel",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/v_the_law_and_the_gospel",
-      "markdown": "[Formula of Concord Solid Declaration, Article V â The Law and the Gospel](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/v_the_law_and_the_gospel)"
+      "markdown": "[Formula of Concord Solid Declaration, Article V — The Law and the Gospel](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/v_the_law_and_the_gospel)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article VI",
-      "title": "Article VI â The Third Use of Godâs Law",
-      "display": "Formula of Concord Solid Declaration, Article VI â The Third Use of Godâs Law",
+      "title": "Article VI — The Third Use of God’s Law",
+      "display": "Formula of Concord Solid Declaration, Article VI — The Third Use of God’s Law",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vi_the_third_use_of_gods_law",
-      "markdown": "[Formula of Concord Solid Declaration, Article VI â The Third Use of Godâs Law](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vi_the_third_use_of_gods_law)"
+      "markdown": "[Formula of Concord Solid Declaration, Article VI — The Third Use of God’s Law](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vi_the_third_use_of_gods_law)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article VII",
-      "title": "Article VII â The Holy Supper",
-      "display": "Formula of Concord Solid Declaration, Article VII â The Holy Supper",
+      "title": "Article VII — The Holy Supper",
+      "display": "Formula of Concord Solid Declaration, Article VII — The Holy Supper",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vii_the_holy_supper",
-      "markdown": "[Formula of Concord Solid Declaration, Article VII â The Holy Supper](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vii_the_holy_supper)"
+      "markdown": "[Formula of Concord Solid Declaration, Article VII — The Holy Supper](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vii_the_holy_supper)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article VIII",
-      "title": "Article VIII â The Person of Christ",
-      "display": "Formula of Concord Solid Declaration, Article VIII â The Person of Christ",
+      "title": "Article VIII — The Person of Christ",
+      "display": "Formula of Concord Solid Declaration, Article VIII — The Person of Christ",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/viii_the_person_of_christ",
-      "markdown": "[Formula of Concord Solid Declaration, Article VIII â The Person of Christ](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/viii_the_person_of_christ)"
+      "markdown": "[Formula of Concord Solid Declaration, Article VIII — The Person of Christ](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/viii_the_person_of_christ)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article IX",
-      "title": "Article IX â The Descent of Christ to Hell",
-      "display": "Formula of Concord Solid Declaration, Article IX â The Descent of Christ to Hell",
+      "title": "Article IX — The Descent of Christ to Hell",
+      "display": "Formula of Concord Solid Declaration, Article IX — The Descent of Christ to Hell",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ix_the_descent_of_christ_to_hell",
-      "markdown": "[Formula of Concord Solid Declaration, Article IX â The Descent of Christ to Hell](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ix_the_descent_of_christ_to_hell)"
+      "markdown": "[Formula of Concord Solid Declaration, Article IX — The Descent of Christ to Hell](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/ix_the_descent_of_christ_to_hell)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article X",
-      "title": "Article X â Church Practices",
-      "display": "Formula of Concord Solid Declaration, Article X â Church Practices",
+      "title": "Article X — Church Practices",
+      "display": "Formula of Concord Solid Declaration, Article X — Church Practices",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/x_church_practices",
-      "markdown": "[Formula of Concord Solid Declaration, Article X â Church Practices](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/x_church_practices)"
+      "markdown": "[Formula of Concord Solid Declaration, Article X — Church Practices](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/x_church_practices)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article XI",
-      "title": "Article XI â Godâs Eternal Foreknowledge and Election",
-      "display": "Formula of Concord Solid Declaration, Article XI â Godâs Eternal Foreknowledge and Election",
+      "title": "Article XI — God’s Eternal Foreknowledge and Election",
+      "display": "Formula of Concord Solid Declaration, Article XI — God’s Eternal Foreknowledge and Election",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xi_gods_eternal_foreknowledge_and_election",
-      "markdown": "[Formula of Concord Solid Declaration, Article XI â Godâs Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xi_gods_eternal_foreknowledge_and_election)"
+      "markdown": "[Formula of Concord Solid Declaration, Article XI — God’s Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xi_gods_eternal_foreknowledge_and_election)"
     },
     {
       "document": "Formula of Concord Solid Declaration",
       "section_key": "Article XII",
-      "title": "Article XII â Other Factions and Sects",
-      "display": "Formula of Concord Solid Declaration, Article XII â Other Factions and Sects",
+      "title": "Article XII — Other Factions and Sects",
+      "display": "Formula of Concord Solid Declaration, Article XII — Other Factions and Sects",
       "url": "https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xii_other_factions_and_sects",
-      "markdown": "[Formula of Concord Solid Declaration, Article XII â Other Factions and Sects](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xii_other_factions_and_sects)"
+      "markdown": "[Formula of Concord Solid Declaration, Article XII — Other Factions and Sects](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xii_other_factions_and_sects)"
     }
   ],
   "markdown_examples": {
-    "AC IV": "[Augsburg Confession, Article IV â Justification](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv/)",
-    "Ap IV": "[Apology of the Augsburg Confession, Article IV (II) â Justification](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iv_ii)",
-    "LC III 2": "[Large Catechism â The Second Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_second_petition/)",
-    "SC Baptism": "[Small Catechism â The Sacrament of Holy Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism)",
-    "FC-SD XI": "[Formula of Concord Solid Declaration, Article XI â Godâs Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xi_gods_eternal_foreknowledge_and_election)"
+    "AC IV": "[Augsburg Confession, Article IV — Justification](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv/)",
+    "Ap IV": "[Apology of the Augsburg Confession, Article IV (II) — Justification](https://bookofconcord.cph.org/en/apology-augsburg-confession/article_iv_ii)",
+    "LC III 2": "[Large Catechism — The Second Petition](https://bookofconcord.cph.org/en/large-catechism/part_3/the_second_petition/)",
+    "SC Baptism": "[Small Catechism — The Sacrament of Holy Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism)",
+    "FC-SD XI": "[Formula of Concord Solid Declaration, Article XI — God’s Eternal Foreknowledge and Election](https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/xi_gods_eternal_foreknowledge_and_election)"
   }
 }
