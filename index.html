@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Confessional Lutheran Companion</title>
+</head>
+<body>
 
+<h2>Confessional Lutheran Companion</h2>
+
+<textarea id="input" placeholder="Paste GPT output here..." style="width:100%;height:200px;"></textarea>
+
+<h3>Corrected Output:</h3>
+<pre id="output"></pre>
+
+<script>
+let linkmap = null;
+
+fetch("book_of_concord_LINKMAP_CPH_ONLY.json")
+  .then(res => res.json())
+  .then(data => linkmap = data);
+
+function fixLinks(text) {
+  if (!linkmap) return text;
+
+  return text.replace(/https?:\/\/bookofconcord\.org\/[^ )]*/gi, (match) => {
+
+    for (const entry of linkmap.entries) {
+      if (match.toLowerCase().includes("article-iv") && entry.display.includes("Article IV")) {
+        return entry.url;
+      }
+      if (match.toLowerCase().includes("baptism") && entry.display.includes("Baptism")) {
+        return entry.url;
+      }
+      if (match.toLowerCase().includes("lords-prayer") && entry.display.includes("Lord’s Prayer")) {
+        return entry.url;
+      }
+    }
+
+    return "";
+  });
+}
+
+document.getElementById("input").addEventListener("input", function() {
+  document.getElementById("output").innerText = fixLinks(this.value);
+});
+</script>
+
+</body>
+</html>
